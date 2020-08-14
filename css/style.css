@@ -542,10 +542,10 @@ header nav.desktop-menu li  a{
 @media screen and (max-width: 598px){
     .parte1{
         padding-left: 2%;
-        height: 800px;
+        height: 950px;
     }
     .parte2{
-        height: 800px;
+        height: 950px;
     }
    
 }
