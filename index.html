@@ -8,6 +8,7 @@
     <link rel="shorcut icon" type="image-x/png" href="imagens/logo.ico"/>
     <script src="js/jquery-3.5.1.js"></script>
     <script src="js/script.js"></script>
+    <script src="js/janela-modal.js"></script>
     <title>WE.CODE</title>
 </head>
 <body>
@@ -52,14 +53,28 @@
             <ul>
                 <li>Sites</li>
                 <li>Lojas Virtuais</li>
-                <li>Sistemas</li>
+                <li>Sistemas integrados</li>
             </ul>
-            <div class="section1-btn">Entre em contato</div>
+
+            <div id="btn-modal" class="section1-btn btn-modal">Entre em contato</div>
         </div>
         <div class="section1-img"></div>
         <div class="clear"></div>
     </div>
 </section><!--section1-->
+
+<div class="janela-modal">
+    <div class="form-modal">
+        <div class="btn-fechar-modal"><img src="imagens/close.png" height="40px" width="40px"></div>
+        <h2>Insira seus dados e entraremos em contato!</h2>
+        <form id="form-modal">
+            <input type="text" name="nome" placeholder="Insira seu Nome*" required/>
+            <input type="text" name="telefone" placeholder="Insira seu Telefone*" required/>
+            <input type="text" name="email" placeholder="Insira seu E-mail*" required/>
+            <input type="submit" name="enviar" placeholder="Enviar" />
+        </form>
+    </div>
+</div>
 
 <section class="section-2">
     <div class="container">

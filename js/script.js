@@ -12,8 +12,7 @@ $(function(){
         var offsetTop = $(href).offset().top;
 
         $('html, body').animate({'scrollTop':offsetTop});
-
-        return console.log('ola');
+        
     })
 });
 
