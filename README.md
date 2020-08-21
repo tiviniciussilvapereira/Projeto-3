@@ -1,5 +1,7 @@
-# Projeto-3
+# <WE.CODE> Sistemas
 
+## Sobre o Projeto
+O projeto teve como objetivo implementar uma landing page responsiva para uma empresa ficticia de desenvolvimento de sistemas web/mobile. Foram utilizadas boas praticas do CSS3 responsivo, implementação de um botão que chama um Menu Modal para que o cliente entre em contato com a empresa, bullet sliders com os membros da equipe, e um mapa com geolocalização do local da empresa. 
 
 ## Desktop Viewport
 ![](viewport-projeto-3/desktop-viewport.png)
