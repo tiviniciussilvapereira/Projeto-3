@@ -14,6 +14,10 @@ Foi implementado via Javascript/Jquery um "Bullet Slider" para apresentar os mem
 
 ![](viewport-projeto-3/bullet-slider.png)
 
+## Menu Modal
+Implementação do Menu Modal via Jquery ao clicar no botão "Entre em contato", ao clicar a pagina fica com um overlay com opacidade, escurecendo a pagina, dando destaque ao menu de formulários, que contem um botão de fechar, e que pode ser fechado ao clicar no 'body' do html. 
+![](viewport-projeto-3/menu-modal.png)
+
 ## Mobile Menu
 Foi implementado via Javascript/Jquery o Mobile Menu, que efetua uma ação quando o usuário clica no icone de menu, que aparece quando a página entra no modo responsivo para o viewport size mobile. 
 
